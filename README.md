@@ -1,16 +1,59 @@
-## Hi there 👋
+# 🚀 Nathan Bittencourt 
 
-<!--
-**NathanBitt/NathanBitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## `Desenvolvedor Backend` ##
 
-Here are some ideas to get you started:
+```java
+System.out.println("Bem Vindo(a)");
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas no IFBA. Entusiasta de programação, estou em busca de novos desafios e oportunidades para crescer como desenvolvedor.
+---
+
+### 🤖 Linguagens
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="32px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="32px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<br/>
+<br/>
+
+### 🎲 Meus Dados
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=NathanBitt&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBitt&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
+
+
+
+
+
