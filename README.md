@@ -9,7 +9,7 @@ System.out.println("Bem Vindo(a)");
 Olá! tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas no IFBA. Entusiasta de programação, estou em busca de novos desafios e oportunidades para crescer como desenvolvedor.
 ---
 
-### 🤖 Linguagens
+### 📚 Linguagens
 
 <img 
     align="left" 
